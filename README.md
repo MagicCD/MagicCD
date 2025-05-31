@@ -17,20 +17,11 @@
 <br/>
 
 <!-- 关于我 -->
-## About me
-<p align="center">
-  <a href="https://nixos.org/"> <img src="https://img.shields.io/badge/NixOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white" /> </a>
-  <a href="https://www.vim.org/"> <img src="https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=Vim&logoColor=white"> </a>
-  <a href="https://www.docker.com/"> <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"> </a>
-  <a href="https://git-scm.com"> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"> </a>
-  <a href="https://spark.apache.org"> <img src="https://img.shields.io/badge/Spark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white"> </a>
-</p>
-<p align="center">
-  <a href="https://kubernetes.io/zh-cn/"> <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white"> </a>
-  <a href="https://www.qt.io/zh-cn"> <img src="https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=Qt&logoColor=white"> </a>
-  <a href="https://www.opengl.org/"> <img src="https://img.shields.io/badge/OpenGL-5586A4.svg?style=for-the-badge&logo=OpenGL&logoColor=white"> </a>
-  <a href="https://obsidian.md/"> <img src="https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white"> </a>
-</p>
+## 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,cpp,python,typescript,qt,visualstudio,obsidian&theme=light" height="60"/>
+</div>
 
 <!-- Github Readme stats -->
 <!--START_SECTION:waka-->
@@ -112,18 +103,25 @@ Java                     1 repo              ██████░░░░░�
 <!--END_SECTION:waka-->
 
 <div align="center">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=MagicCD&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagicCD&layout=donut&theme=graywhite&bg_color=0,fDFF62,A7FA73,80d7FF&locale=cn"/>
+
+  <!-- GitHub Readme Stats：总览（浅色主题+无边框） -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MagicCD&show_icons=true&theme=default&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+
+  <!-- 语言分布（圆环浅色） -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagicCD&layout=donut&theme=default&hide_border=true" height="160" />
+
+  <!-- 连续打卡（Week Streak，明亮主题） -->
+  <img src="https://streak-stats.demolab.com?user=MagicCD&theme=default&hide_border=true&mode=weekly" height="160"/>
 </div>
 
 <!-- 热力图Snake -->
 <div align="center">
+  <!-- 贡献蛇动效（视觉亮点） -->
   <img src="https://raw.githubusercontent.com/MagicCD/MagicCD/output/github-contribution-grid-snake.svg" />
 </div>
 
 <!-- 贡献趋势图 -->
-<!-- ## Contribution Grap
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MagicCD&theme=github-compact" />
-</div> -->
+</div>
