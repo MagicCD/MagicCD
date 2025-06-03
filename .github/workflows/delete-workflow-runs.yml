@@ -9,6 +9,6 @@ jobs:
       - name: Delete workflow runs
         uses: colbyfayock/delete-workflow-runs@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
           retain_days: 30     # 删除30天前的记录
           retain_min_count: 6  # 至少保留6条记录
