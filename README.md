@@ -25,13 +25,11 @@
 
 <!-- Github Readme stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2056%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 65.6 kB Used in GitHub's Storage 
- > 
-> 🏆 994 Contributions in the Year 2025
+> 📦 65.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,15 +42,15 @@
 ```text
 🌞 Morning                706 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
 🌆 Daytime                1485 commits        ████████░░░░░░░░░░░░░░░░░   32.85 % 
-🌃 Evening                799 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-🌙 Night                  1530 commits        ████████░░░░░░░░░░░░░░░░░   33.85 % 
+🌃 Evening                799 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+🌙 Night                  1531 commits        ████████░░░░░░░░░░░░░░░░░   33.86 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   621 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Tuesday                  630 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Wednesday                633 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Tuesday                  630 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Wednesday                634 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
 Thursday                 628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
 Friday                   652 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
 Saturday                 655 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
@@ -66,16 +64,16 @@ Sunday                   701 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        1 hr 7 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Devicedevolopment        1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -93,7 +91,7 @@ Java                     1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MagicCD/MagicCD/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2025 18:48:08 UTC
+ Last Updated on 11/06/2025 18:48:41 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
