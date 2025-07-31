@@ -25,11 +25,11 @@
 
 <!-- Github Readme stats -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2034%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 65.7 kB Used in GitHub's Storage 
- > 
-> 🏆 1,051 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,6 +37,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                713 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+🌆 Daytime                1485 commits        ████████░░░░░░░░░░░░░░░░░   32.44 % 
+🌃 Evening                799 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+🌙 Night                  1581 commits        █████████░░░░░░░░░░░░░░░░   34.53 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   635 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Tuesday                  637 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Wednesday                641 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Thursday                 636 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Friday                   659 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Saturday                 662 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Sunday                   708 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -52,7 +91,7 @@ Java                     1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MagicCD/MagicCD/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2025 18:53:05 UTC
+ Last Updated on 31/07/2025 18:53:14 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
