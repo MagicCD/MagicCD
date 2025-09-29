@@ -25,11 +25,13 @@
 
 <!-- Github Readme stats -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2034%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 65.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,119 Contributions in the Year 2025
+> 🏆 1,121 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,6 +39,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                722 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+🌆 Daytime                1485 commits        ████████░░░░░░░░░░░░░░░░░   31.96 % 
+🌃 Evening                799 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+🌙 Night                  1641 commits        █████████░░░░░░░░░░░░░░░░   35.31 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   653 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Tuesday                  645 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Wednesday                649 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Thursday                 644 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Friday                   668 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Saturday                 671 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Sunday                   717 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -52,7 +93,7 @@ Java                     1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MagicCD/MagicCD/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 18:41:46 UTC
+ Last Updated on 29/09/2025 18:46:28 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
