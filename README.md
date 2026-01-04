@@ -25,11 +25,13 @@
 
 <!-- Github Readme stats -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2041%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 65.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 3 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,6 +39,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                735 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+🌆 Daytime                1485 commits        ████████░░░░░░░░░░░░░░░░░   31.22 % 
+🌃 Evening                799 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+🌙 Night                  1737 commits        █████████░░░░░░░░░░░░░░░░   36.52 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   679 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Tuesday                  659 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Wednesday                663 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Thursday                 658 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Friday                   682 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Saturday                 684 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Sunday                   731 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -53,7 +94,7 @@ JavaScript               1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MagicCD/MagicCD/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:48:34 UTC
+ Last Updated on 04/01/2026 18:48:56 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
