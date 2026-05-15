@@ -25,13 +25,11 @@
 
 <!-- Github Readme stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2025%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 65.9 kB Used in GitHub's Storage 
  > 
-> 🏆 143 Contributions in the Year 2026
+> 🏆 144 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,45 +37,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                754 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-🌆 Daytime                1485 commits        ████████░░░░░░░░░░░░░░░░░   30.29 % 
-🌃 Evening                799 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-🌙 Night                  1864 commits        ██████████░░░░░░░░░░░░░░░   38.03 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   717 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Tuesday                  676 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Wednesday                681 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Thursday                 677 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Friday                   700 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Saturday                 702 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Sunday                   749 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -93,7 +52,7 @@ Java                     1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MagicCD/MagicCD/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 20:12:51 UTC
+ Last Updated on 15/05/2026 19:58:20 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
