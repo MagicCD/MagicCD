@@ -25,11 +25,15 @@
 
 <!-- Github Readme stats -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%2047%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2015%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 65.9 kB Used in GitHub's Storage 
  > 
-> 🏆 229 Contributions in the Year 2026
+> 🏆 230 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,21 +44,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                765 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+🌞 Morning                765 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
 🌆 Daytime                1485 commits        ███████░░░░░░░░░░░░░░░░░░   29.77 % 
 🌃 Evening                799 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-🌙 Night                  1939 commits        ██████████░░░░░░░░░░░░░░░   38.87 % 
+🌙 Night                  1940 commits        ██████████░░░░░░░░░░░░░░░   38.89 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   739 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Monday                   739 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 Tuesday                  687 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Wednesday                691 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Wednesday                692 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
 Thursday                 687 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 Friday                   711 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
 Saturday                 713 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Sunday                   760 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Sunday                   760 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
 ```
 
 
@@ -97,7 +101,7 @@ Java                     1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MagicCD/MagicCD/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 19:59:00 UTC
+ Last Updated on 29/07/2026 19:51:28 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
